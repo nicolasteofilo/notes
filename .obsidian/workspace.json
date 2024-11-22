@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "a6890e1f5dd73a85",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5a96d0ea32c27ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ad32e6d1eea3290",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cursos/Fundamentos do C Sharp - Balta.io/15.  Value Types e Reference Types.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15.  Value Types e Reference Types"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e2bd652a015a24b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6220306f3313f02d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59a6cd8baac623d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e0fcb430b8e1fce6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4bf5284ed616f244",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5
+  },
+  "right": {
+    "id": "320a418d9910f28b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb74f0f319cf3b15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3ac5a048b0a91b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cursos/Fundamentos do C Sharp - Balta.io/9. Parse e Convert.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 9. Parse e Convert"
+            }
+          },
+          {
+            "id": "5aa5fa0484f45f83",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cursos/Fundamentos do C Sharp - Balta.io/9. Parse e Convert.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 9. Parse e Convert"
+            }
+          },
+          {
+            "id": "fdc5716e358a2f97",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "51379eaa6e9c4f02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cursos/Fundamentos do C Sharp - Balta.io/9. Parse e Convert.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 9. Parse e Convert"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2ad32e6d1eea3290",
+  "lastOpenFiles": [
+    "Cursos/Fundamentos do C Sharp - Balta.io/14. Funções e métodos.md",
+    "Cursos/Fundamentos do C Sharp - Balta.io/15.  Value Types e Reference Types.md",
+    "Cursos/Fundamentos do C Sharp - Balta.io/13. Laços de repetição.md",
+    "Cursos/Fundamentos do C Sharp - Balta.io/12. Switch.md",
+    "Cursos/Fundamentos do C Sharp - Balta.io/11. Operadores Lógicos.md",
+    "Cursos/Fundamentos do C Sharp - Balta.io/10. Operadores de comparação.md",
+    "Cursos/Fundamentos do C Sharp - Balta.io/0. Inteiros, Números Reais.md",
+    "Cursos/Fundamentos do C Sharp - Balta.io/9. Parse e Convert.md",
+    "Cursos/Fundamentos do C Sharp - Balta.io/5. Nullable Types.md",
+    "Cursos/Fundamentos do C Sharp - Balta.io/4. Object.md",
+    "Cursos/Fundamentos do C Sharp - Balta.io/3. Var.md",
+    "Cursos/Fundamentos do C Sharp - Balta.io/2. Char e String.md",
+    "Cursos/Fundamentos do C Sharp - Balta.io/1. Boolean.md",
+    "Cursos/Fundamentos do C Sharp - Balta.io/8. Conversão Implícita e Conversão explícita.md",
+    "Cursos/Fundamentos do C Sharp - Balta.io/7. Valores Padrões.md",
+    "Cursos/Fundamentos do C Sharp - Balta.io/Untitled",
+    "Cursos/Fundamentos do C Sharp - Balta.io/6. Alias.md",
+    "Cursos/Fundamentos do C Sharp - Balta.io",
+    "Cursos/Untitled.md",
+    "Cursos",
+    "Welcome.md"
+  ]
+}
