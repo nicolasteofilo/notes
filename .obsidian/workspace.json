@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Fundamentos do C Sharp - Balta.io/15.  Value Types e Reference Types.md",
+                "file": "Cursos/Fundamentos do C Sharp - Balta.io/17. Enums.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15.  Value Types e Reference Types"
+              "title": "17. Enums"
             }
           }
         ]
@@ -164,21 +164,24 @@
   },
   "active": "2ad32e6d1eea3290",
   "lastOpenFiles": [
-    "Cursos/Fundamentos do C Sharp - Balta.io/14. Funções e métodos.md",
+    "Cursos/Fundamentos do C Sharp - Balta.io/16. Structs.md",
+    "Cursos/Fundamentos do C Sharp - Balta.io/17. Enums.md",
+    "Pasted image 20241122221345.png",
     "Cursos/Fundamentos do C Sharp - Balta.io/15.  Value Types e Reference Types.md",
+    "Cursos/Fundamentos do C Sharp - Balta.io/7. Valores Padrões.md",
+    "Cursos/Fundamentos do C Sharp - Balta.io/9. Parse e Convert.md",
+    "Cursos/Fundamentos do C Sharp - Balta.io/10. Operadores de comparação.md",
+    "Cursos/Fundamentos do C Sharp - Balta.io/11. Operadores Lógicos.md",
     "Cursos/Fundamentos do C Sharp - Balta.io/13. Laços de repetição.md",
     "Cursos/Fundamentos do C Sharp - Balta.io/12. Switch.md",
-    "Cursos/Fundamentos do C Sharp - Balta.io/11. Operadores Lógicos.md",
-    "Cursos/Fundamentos do C Sharp - Balta.io/10. Operadores de comparação.md",
+    "Cursos/Fundamentos do C Sharp - Balta.io/14. Funções e métodos.md",
     "Cursos/Fundamentos do C Sharp - Balta.io/0. Inteiros, Números Reais.md",
-    "Cursos/Fundamentos do C Sharp - Balta.io/9. Parse e Convert.md",
     "Cursos/Fundamentos do C Sharp - Balta.io/5. Nullable Types.md",
     "Cursos/Fundamentos do C Sharp - Balta.io/4. Object.md",
     "Cursos/Fundamentos do C Sharp - Balta.io/3. Var.md",
     "Cursos/Fundamentos do C Sharp - Balta.io/2. Char e String.md",
     "Cursos/Fundamentos do C Sharp - Balta.io/1. Boolean.md",
     "Cursos/Fundamentos do C Sharp - Balta.io/8. Conversão Implícita e Conversão explícita.md",
-    "Cursos/Fundamentos do C Sharp - Balta.io/7. Valores Padrões.md",
     "Cursos/Fundamentos do C Sharp - Balta.io/Untitled",
     "Cursos/Fundamentos do C Sharp - Balta.io/6. Alias.md",
     "Cursos/Fundamentos do C Sharp - Balta.io",
